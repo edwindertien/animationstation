@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+*.hex
+*.elf
+.DS_Store
+__MACOSX/
